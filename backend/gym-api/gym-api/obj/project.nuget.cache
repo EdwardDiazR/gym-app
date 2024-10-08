@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pojg8dIF7Yq19fmAJZ76gf0KzmkmadaWnPy1Udjaic7wrknKZYeSO774WI0kBH3zUa8nI5Romc+UplmPctvZJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eadia\\OneDrive\\Escritorio\\Programacion\\gym-app\\backend\\gym-api\\gym-api\\gym-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eadia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\eadia\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\eadia\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\eadia\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\eadia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\eadia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
